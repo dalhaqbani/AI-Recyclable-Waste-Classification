@@ -202,21 +202,7 @@ Compare model performance
 
 
 
-Requirements
 
-torch
-
-torchvision
-
-numpy
-
-matplotlib
-
-pillow
-
-scikit-learn
-
-opencv-python
 
 
 
@@ -253,6 +239,7 @@ We would like to express our gratitude to Dr. Sawsan AlHalawani for her supervis
 
 
 **Full license text is available in the LICENSE file.**
+
 
 
 
