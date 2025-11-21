@@ -115,39 +115,20 @@ Model 4 (New Dataset)
 | Model 4 | 0.00001       | 50     | New Dataset | Impact of dataset diversity          |
 
 
-Features
+**Model Evaluation Visualizations**
+
+*Validation Accuracy Across Models*
+
+<img width="600" height="624" alt="validation accuracy" src="https://github.com/user-attachments/assets/ba31dc76-b57f-4bdc-8de9-640ad32fbaa5" />
 
 
+*Validation Loss Across Models*
 
-Fine-tuned ResNet-50 architecture
+<img width="600" height="624" alt="validation loss" src="https://github.com/user-attachments/assets/5734ce18-6243-4be8-85fe-57246548c03e" />
 
+*Comparative Per-Class Performance Metrics*
 
-
-Multiple experimental setups
-
-
-
-Validation accuracy and loss curves
-
-
-
-Confusion matrices
-
-
-
-Precision, recall, and F1-score comparisons
-
-
-
-ROC curves
-
-
-
-FPR vs FNR analysis
-
-
-
-Comprehensive model comparison
+<img width="600" height="742" alt="comparative performance" src="https://github.com/user-attachments/assets/d542115b-8acb-470d-8575-b50dd55399b2" />
 
 
 
@@ -264,5 +245,6 @@ We would like to express our gratitude to Dr. Sawsan AlHalawani for her supervis
 
 
 **Full license text is available in the LICENSE file.**
+
 
 
