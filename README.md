@@ -1,3 +1,9 @@
+
+
+
+![prince sultan university logo](https://github.com/user-attachments/assets/03c5eb2c-8168-4e31-a27d-06efe3b9d787)
+
+
 **AI-Based Recyclable Waste Classification**
 
 
@@ -258,8 +264,4 @@ We would like to express our gratitude to Dr. Sawsan AlHalawani for her supervis
 
 
 **Full license text is available in the LICENSE file.**
-
-
-
-
 
