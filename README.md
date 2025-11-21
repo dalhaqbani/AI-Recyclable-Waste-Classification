@@ -101,16 +101,13 @@ Model 4 (New Dataset)
 **Model Configurations**
 
 
+| Model   | Learning Rate | Epochs | Dataset     | Purpose                              |
+|---------|--------------|--------|-------------|--------------------------------------|
+| Model 1 | 0.00001       | 50     | Original    | Baseline configuration               |
+| Model 2 | 0.0001        | 50     | Original    | Effect of higher learning rate       |
+| Model 3 | 0.00001       | 10     | Original    | Effect of reduced training duration  |
+| Model 4 | 0.00001       | 50     | New Dataset | Impact of dataset diversity          |
 
-Model	Learning Rate	Epochs	Dataset	Purpose
-
-Model 1	0.00001	50	Original	Baseline configuration
-
-Model 2	0.0001	50	Original	Test effect of higher learning rate
-
-Model 3	0.00001	10	Original	Test effect of reduced training
-
-Model 4	0.00001	50	New Dataset	Test impact of dataset diversity
 
 Features
 
@@ -261,6 +258,7 @@ We would like to express our gratitude to Dr. Sawsan AlHalawani for her supervis
 
 
 **Full license text is available in the LICENSE file.**
+
 
 
 
