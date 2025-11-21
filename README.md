@@ -39,7 +39,7 @@ The six waste categories included are:
 
 
 
-### Dataset Access
+### 📂 Dataset Access
 
 
 
@@ -123,7 +123,7 @@ Model 4 (New Dataset)
 | Model 4 | 0.00001       | 50     | New Dataset | Impact of dataset diversity          |
 
 
-### Model Evaluation Visualizations
+### 📊 Model Evaluation Visualizations 
 
 *Validation Accuracy Across Models*
 
@@ -157,11 +157,11 @@ project-folder/
 │── (Not included on GitHub) models/  → Models available via Google Drive
 
 
-#### How to Run
+#### 🚀 How to Run
 
 
 
-Install dependencies:
+##### 1\. Install dependencies:
 
 
 
@@ -171,7 +171,7 @@ pip install -r requirements.txt
 
 
 
-2\.  Open the notebook:
+##### 2\.  Open the notebook:
 
 
 
@@ -181,7 +181,7 @@ CS316\_AI\_Based\_Recyclable\_Waste\_Classification.ipynb
 
 
 
-3\.  Run all cells to:
+##### 3\.  Run all cells to:
 
 
 
@@ -221,7 +221,7 @@ We would like to express our gratitude to Dr. Sawsan AlHalawani for her supervis
 
 
 
-### License
+### 📜 License
 
 
 
@@ -238,6 +238,7 @@ We would like to express our gratitude to Dr. Sawsan AlHalawani for her supervis
 
 
 **Full license text is available in the LICENSE file.**
+
 
 
 
