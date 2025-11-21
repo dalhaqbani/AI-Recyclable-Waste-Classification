@@ -4,7 +4,8 @@
 
 
 
-**AI-Based Recyclable Waste Classification**
+<h1 style="color:#2E86C1;">AI-Based Recyclable Waste Classification</h1>
+
 
 
 
@@ -46,7 +47,7 @@ Two datasets were used for training and evaluation:
 
 
 
-1. Original Dataset
+1\. Original Dataset
 
 
 
@@ -54,15 +55,22 @@ https://drive.google.com/drive/folders/16Zs7avXr6p8Ajk075gQX9DVsBb5Gn4ZU?usp=dri
 
 
 
-2\.     New Dataset
+2\.  New Dataset
 
 
 
-https://drive.google.com/drive/folders/1MEKyRiCEgJOVCKbC8uvHpifTdALyqJhQ?usp=drive\_link
+https://drive.google.com/drive/folders/1MEKyRiCEgJOVCKbC8uvHpifTdALyqJhQ?usp=drive\_link 
 
 
 
-Both datasets follow a directory structure compatible with PyTorch’s ImageFolder.
+
+
+
+
+
+
+
+
 
 
 
@@ -245,6 +253,7 @@ We would like to express our gratitude to Dr. Sawsan AlHalawani for her supervis
 
 
 **Full license text is available in the LICENSE file.**
+
 
 
 
