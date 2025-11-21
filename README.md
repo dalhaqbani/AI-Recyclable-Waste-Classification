@@ -14,7 +14,7 @@
 
 
 
-**Overview**
+## Overview
 
 
 
@@ -39,7 +39,7 @@ The six waste categories included are:
 
 
 
-**Dataset Access**
+### Dataset Access
 
 
 
@@ -74,7 +74,7 @@ https://drive.google.com/drive/folders/1MEKyRiCEgJOVCKbC8uvHpifTdALyqJhQ?usp=dri
 
 
 
-**Trained Models (Weights)**
+ ### Trained Models (Weights)
 
 
 
@@ -90,7 +90,7 @@ https://drive.google.com/drive/folders/14K4bVQZQY4DbDxflgj5u0Vf8utFghxqL?usp=dri
 
 
 
-**This folder contains:**
+ ### This folder contains:
 
 
 
@@ -112,7 +112,7 @@ Model 4 (New Dataset)
 
 
 
-**Model Configurations**
+### Model Configurations
 
 
 | Model   | Learning Rate | Epochs | Dataset     | Purpose                              |
@@ -123,7 +123,7 @@ Model 4 (New Dataset)
 | Model 4 | 0.00001       | 50     | New Dataset | Impact of dataset diversity          |
 
 
-**Model Evaluation Visualizations**
+### Model Evaluation Visualizations
 
 *Validation Accuracy Across Models*
 
@@ -140,7 +140,7 @@ Model 4 (New Dataset)
 
 
 
-**Project Structure**
+### Project Structure
 
 
 
@@ -157,8 +157,7 @@ project-folder/
 │── (Not included on GitHub) models/  → Models available via Google Drive
 
 
-
-**How to Run**
+#### How to Run
 
 
 
@@ -206,7 +205,7 @@ Compare model performance
 
 
 
-**Acknowledgments**
+### Acknowledgments
 
 
 
@@ -222,7 +221,7 @@ We would like to express our gratitude to Dr. Sawsan AlHalawani for her supervis
 
 
 
-**License**
+### License
 
 
 
@@ -239,6 +238,7 @@ We would like to express our gratitude to Dr. Sawsan AlHalawani for her supervis
 
 
 **Full license text is available in the LICENSE file.**
+
 
 
 
